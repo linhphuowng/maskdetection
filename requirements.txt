@@ -1,3 +1,5 @@
+altair
+pandas
 imutils
 numpy
 cmake
