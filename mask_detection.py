@@ -1,3 +1,4 @@
+import streamlit as st
 from imutils.video import VideoStream
 from imutils import face_utils
 import numpy as np
@@ -6,6 +7,8 @@ import time
 import dlib
 import os
 import cv2
+
+st.set_page_config(layout="wide")
 
 # Khoi tao cac module detect mat va facial landmark
 face_detect = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
