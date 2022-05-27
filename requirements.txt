@@ -1,9 +1,0 @@
-altair
-pandas
-imutils
-numpy
-cmake
-dlib
-face_recognition
-opencv-python-headless
-opencv-contrib-python-headless

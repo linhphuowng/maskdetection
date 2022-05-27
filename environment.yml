@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+ dependencies:
+  - dlib
+  - imutils
+  - numpy
+  - face_recognition
+  - opencv-python-headless
+  - opencv-contrib-python-headless
